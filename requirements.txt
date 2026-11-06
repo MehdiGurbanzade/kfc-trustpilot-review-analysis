@@ -1,0 +1,10 @@
+pandas
+numpy
+textblob
+scikit-learn
+matplotlib
+seaborn
+jupyter
+# scraper only
+selenium
+webdriver-manager
